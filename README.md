@@ -1,9 +1,5 @@
 # bewi
 
-
-//TODO: picture of the bong here!
-(![image](https://user-images.githubusercontent.com/7389663/172740546-3b817024-7327-4eea-bcac-41cbc0acf255.png))
-
 THE CONCEPT
 Transforming the interaction with an everyday water-bong from quiet bubbling and delinquency to a musical experience, consisting of generative composition, string synthesis, and introducing bite-size chunks of key music theory concepts for aspiring musicians, stoned or otherwise.  
 Using a wind sensor inside the neck of the bong and sliders and knobs along the outside, the user can live control a set of variables, including the base key and chord of the composition to be generated, as well as the tempo, reverb, and filtering.
