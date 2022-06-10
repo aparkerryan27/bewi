@@ -1,4 +1,4 @@
-# bewi
+# BEWI by Parker Ryan
 
 THE CONCEPT:
 
